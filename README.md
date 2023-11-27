@@ -34,4 +34,6 @@ For more TWRP or Magisk modules, join the Adreno <a href="https://t.me/adreno_ko
 
 For any questions contact K11MCH1 on <a href="https://discord.gg/YhpdhVBmXX">Strato Emulator Official Discord</a>.
 
+𝘕𝘰𝘵𝘦, 𝘣𝘦𝘤𝘢𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘢 𝘮𝘢𝘨𝘪𝘴𝘬 𝘧𝘰𝘳𝘬 𝘵𝘩𝘪𝘴 𝘸𝘪𝘭𝘭 𝘯𝘰𝘵 𝘰𝘯𝘭𝘺 𝘮𝘢𝘬𝘦 𝘺𝘰𝘶𝘳 𝘦𝘮𝘶𝘭𝘢𝘵𝘦𝘥 𝘨𝘢𝘮𝘦𝘴 𝘧𝘢𝘴𝘵𝘦𝘳 𝘣𝘶𝘵 𝘢𝘭𝘴𝘰 𝘵𝘩𝘦 𝘨𝘢𝘮𝘦𝘴 𝘰𝘯 𝘺𝘰𝘶𝘳 𝘥𝘦𝘷𝘪𝘤𝘦 𝘢𝘯𝘥 𝘤𝘦𝘳𝘵𝘢𝘪𝘯 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘵𝘰𝘰 𝘤𝘢𝘯 𝘧𝘪𝘹 𝘴𝘰𝘮𝘦 𝘣𝘶𝘨𝘴 𝘦𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘭𝘺 𝘪𝘧 𝘺𝘰𝘶 𝘴𝘦𝘦 𝘢 𝘣𝘭𝘢𝘤𝘬 𝘴𝘤𝘳𝘦𝘦𝘯 𝘰𝘳 𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘰𝘳 𝘧𝘭𝘪𝘤𝘬𝘦𝘳𝘪𝘯𝘨 𝘰𝘯 𝘺𝘰𝘶𝘳 𝘨𝘢𝘮𝘦𝘴 𝘰𝘳 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯, 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘢𝘭𝘮𝘰𝘴𝘵 𝘨𝘶𝘢𝘳𝘢𝘯𝘵𝘦𝘦 𝘵𝘰 𝘩𝘦𝘭𝘱! 𝘴𝘪𝘯𝘤𝘦𝘳𝘦𝘭𝘺 𝘐𝘕𝘋𝘌𝘌𝘋𝘚𝘌𝘎𝘈 💕
+
 thanks to MarkusTechCorp, K11MCH1, Crytonics, nekomekoraiyuu, and the whole Mesa Turnip team!🌷
