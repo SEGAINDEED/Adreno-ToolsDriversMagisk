@@ -34,4 +34,4 @@ For more TWRP or Magisk modules, join the Adreno <a href="https://t.me/adreno_ko
 
 For any questions contact K11MCH1 on <a href="https://discord.gg/YhpdhVBmXX">Strato Emulator Official Discord</a>.
 
-thanks to MarkusTechCorp, K11MCH1, Crytonics, nekomekoraiyuu, and the whole Mesa Turnip team! ðŸŒ·
+thanks to MarkusTechCorp, K11MCH1, Crytonics, nekomekoraiyuu, and the whole Mesa Turnip team!🌷
