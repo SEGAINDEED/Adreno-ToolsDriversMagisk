@@ -16,7 +16,7 @@ A magisk-turnip repository containing all the drivers for <a href="https://githu
 - requires your boot.img from extracted firmware.
 - for oneplus devices it's easy via <a href="https://play.google.com/store/apps/details?id=com.arjanvlek.oxygenupdater">OxygenUpdater</a>.
 - also by using a computer to connect to fastboot and platform tools just flash it there.
-<a href="https://github.com/libxzr/FastbootEnhance">Fastboot</a>.
+<a href="[https://github.com/libxzr/FastbootEnhance](https://github.com/MisterZtr/FastbootEnhance)">Fastboot</a>.
 <a href="https://developer.android.com/tools/releases/platform-tools">PlatformTools</a>.
  
 For more TWRP or Magisk modules, join the Adreno <a href="https://t.me/adreno_konabess">Konabess Support Telegram group</a>.
