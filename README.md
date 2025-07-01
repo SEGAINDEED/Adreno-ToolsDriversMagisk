@@ -12,7 +12,7 @@ A magisk-turnip repository containing all the drivers for <a href="https://githu
 
 - Qualcomm drivers are extracted from qualcomm-soc-using devices, like Smartphones or the Oculus Quest.
 - Turnip drivers are compiled from <a href="https://docs.mesa3d.org/index.html">Mesa</a>.
-- Magisk (required for turnip magisk)(https://huskydg.github.io/magisk-files/)
+- Magisk (required for turnip magisk)([https://huskydg.github.io/magisk-files/](https://github.com/topjohnwu/Magisk))
 - requires your boot.img from extracted firmware.
 - for oneplus devices it's easy via <a href="https://play.google.com/store/apps/details?id=com.arjanvlek.oxygenupdater">OxygenUpdater</a>.
 - also by using a computer to connect to fastboot and platform tools just flash it there.
